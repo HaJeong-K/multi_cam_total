@@ -24,7 +24,7 @@
 
 #### 일반적으로 우리가 알고있는 백업
 
-![image-20230713171030476](C:\Users\bean\AppData\Roaming\Typora\typora-user-images\image-20230713171030476.png)
+![image-20230713171030476](https://github.com/BEAN0614/multi_cam_total/assets/91309266/8b922b87-e2da-40d8-97ff-9c22a319a65f)
 
 원래 사용하는 지역 저장소에서 원격 저장소로 자료를 넣고 회사에서 사용하는 컴퓨터에서 이 자료들을 다 가져오면 모든 컴퓨터는 같은 상태로 사용가능함
 
@@ -48,7 +48,7 @@ __원격저장소가 가장 중심이 됨__
 
 = "https://www.youtube.com/watch?v=hou5mXBN9gA" >/ 생활코딩 유튜브 참고.
 
-![git - CLI 협업](C:\Users\bean\AppData\Roaming\Typora\typora-user-images\image-20230713175601055.png)
+![image-20230713175601055](https://github.com/BEAN0614/multi_cam_total/assets/91309266/a231b6b7-0281-41bd-ba7c-160b42e98403)
 
 *연결됨을 확인할 수 있는 장면*
 
