@@ -94,7 +94,7 @@ $ git push origin master
 
 ![git & github](https://github.com/BEAN0614/multi_cam_total/assets/91309266/d6032b1f-aa73-4e64-8866-1984f4b00cb2)
 ![가로 콩이](https://github.com/BEAN0614/multi_cam_total/assets/91309266/294f92da-147d-429b-bb20-63ffda325f4f)
-\\<!--이쁜 내새끼 자랑하기-->
+||<!--이쁜 내새끼 자랑하기-->
 
 ## 1.5 Link
 
