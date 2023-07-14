@@ -14,9 +14,9 @@
 
 #### `git bash` 를 통해 올린 `github - a.txt` 로그 캡쳐본
 
-![git command](C:\Users\bean\AppData\Roaming\Typora\typora-user-images\image-20230714105134075.png)
+![image-20230714105134075](https://github.com/BEAN0614/multi_cam_total/assets/91309266/f17a5cb6-0f1e-48e9-8f0b-e41fc5ef4815)
 
-![](C:\Users\bean\AppData\Roaming\Typora\typora-user-images\image-20230714105222335.png)
+![image-20230714105222335](https://github.com/BEAN0614/multi_cam_total/assets/91309266/3eb715b7-6f8a-420c-84cd-ef10ebb8d099)
 
 
 
@@ -34,7 +34,7 @@
 
 #### 홈페이지 업로드 실행 결과
 
-![업로드 직후](C:\Users\bean\AppData\Roaming\Typora\typora-user-images\image-20230714111110533.png)
+![image-20230714111110533](https://github.com/BEAN0614/multi_cam_total/assets/91309266/c9831860-d39a-4dac-881f-efd709458a81)
 
 [^]: 업로드가 시간순으로 추가할 때 마다 바로바로 올라간 것을 확인할 수 있었다.
 
