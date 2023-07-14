@@ -4,7 +4,8 @@
 
 - 초기버전의 파일을 올린 상태에서 수정을 하면 `git` 에서 초기버전을 가져올 수 있다.
 
-![git 전반](C:\Users\bean\AppData\Roaming\Typora\typora-user-images\image-20230714092157099.png)
+![image-20230714092157099](https://github.com/BEAN0614/multi_cam_total/assets/91309266/596feb65-2047-4d34-932b-4b18601cf713)
+
 
 ##  *알고가야할 지식!*
 
@@ -56,7 +57,7 @@ $ git log --oneline
 
 #### 일반적으로 우리가 알고있는 백업
 
-![image-20230713171030476](C:\Users\bean\AppData\Roaming\Typora\typora-user-images\image-20230713171030476.png)
+![image-20230713171030476](https://github.com/BEAN0614/multi_cam_total/assets/91309266/a72f05e1-6dbb-4cc5-8088-8a525c84778c)
 
 원래 사용하는 지역 저장소에서 원격 저장소로 자료를 넣고 회사에서 사용하는 컴퓨터에서 이 자료들을 다 가져오면 모든 컴퓨터는 같은 상태로 사용가능함
 
@@ -80,7 +81,7 @@ __원격저장소가 가장 중심이 됨__
 
 = "https://www.youtube.com/watch?v=hou5mXBN9gA" >/ 생활코딩 유튜브 참고.
 
-![git - CLI 협업](C:\Users\bean\AppData\Roaming\Typora\typora-user-images\image-20230713175601055.png)
+![image-20230713175601055](https://github.com/BEAN0614/multi_cam_total/assets/91309266/9fc582b4-6e49-4185-88f9-cce191ca66b8)
 
 *연결됨을 확인할 수 있는 장면*
 
