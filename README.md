@@ -1,5 +1,5 @@
 # multi_cam_total
- python을 배워가는 과정 기록
+ python, SQL, 데이터 분석에 필요한 지식들을 배워가는 과정 기록
 
 ## 목록
 - github_특강 : 2일간의 github 특강으로 배운 마크다운을 활용해 정리한 폴더
